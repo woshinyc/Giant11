@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+巨人属性配置
+id 巨人id
+name 巨人名称
+health 巨人生命值
+awarldID 奖励id
+awarldType 奖励类型
+awarldCount 奖励数量
+speed 移动速度 毫秒记
+awaitProbability 待机几率
+cowrieProbability = 掉宝率
+killProbability 必杀率
+invalidismProbability  伤残率
+resourceID   资源id
+-->
+<giant>
+<item id="1" name="3米巨人" health="100" awarldType="1" awardId="1" awarldCount="10" speed="8000" awaitProbability="0.3" cowrieProbability="0" killProbability="0.2" invalidismProbability="0.1" resourceID="giant_three_jjj"/>
+<item id="2" name="5米巨人" health="150" awarldType="1" awardId="1" awarldCount="30" speed="8000" awaitProbability="0.3" cowrieProbability="0" killProbability="0.15" invalidismProbability="0.1" resourceID="1"/>
+<item id="3" name="奇行种" health="180" awarldType="1" awardId="1" awarldCount="50" speed="7000" awaitProbability="0.2" cowrieProbability="0" killProbability="0.1" invalidismProbability="0.1" resourceID="1"/>
+<item id="4" name="铁甲巨人" health="250" awarldType="1" awardId="1" awarldCount="100" speed="9000" awaitProbability="0.3" cowrieProbability="0" killProbability="0.05" invalidismProbability="0.1" resourceID="1"/>
+</giant>

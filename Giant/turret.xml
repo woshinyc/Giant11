@@ -1,0 +1,28 @@
+
+<!--
+ 大炮属性
+ id              大炮id
+ name            大炮名字
+ harm            大炮伤害
+ consume         消耗金币数
+ canHarmNum      最大伤害数量
+ damageRange     伤害范围
+ killProbability 必杀机率
+ interval        时间间隔
+ speed           炮弹速度
+ 
+ 
+ -->
+
+
+<?xml version="1.0"?>
+<cannon>
+    <id="1" name ="一级炮" harm ="5" consume="1" canHarmNum="1" damageRange="10" killProbability="0.05" interval="200" speed="30">
+    <id="2" name ="二级炮" harm ="7" consume="2" canHarmNum="1" damageRange="15" killProbability="0.07" interval="200" speed="30">
+	<id="3" name ="三级炮" harm ="10" consume="3" canHarmNum="2" damageRange="20" killProbability="0.08" interval="200" speed="30">
+	<id="4" name ="四级炮" harm ="14" consume="4" canHarmNum="2" damageRange="25" killProbability="0.1" interval="200" speed="30">
+	<id="5" name ="五级炮" harm ="18" consume="5" canHarmNum="3" damageRange="30" killProbability="0.11" interval="200" speed="30">
+	<id="6" name ="六级炮" harm ="23" consume="6" canHarmNum="3" damageRange="35" killProbability="0.12" interval="200" speed="30">
+	<id="7" name ="七级炮" harm ="25" consume="7" canHarmNum="4" damageRange="40" killProbability="0.13" interval="200" speed="30">
+	<id="8" name ="八级炮" harm ="30" consume="8" canHarmNum="4" damageRange="45" killProbability="0.15" interval="200" speed="30">  
+</cannon>

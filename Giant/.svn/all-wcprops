@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/MobileTechnolog/!svn/ver/29/Giant/Giant
+END
+SqlHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/SqlHelper.cpp
+END
+DBaseSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MobileTechnolog/!svn/ver/14/Giant/Giant/DBaseSprite.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/config.h
+END
+ResourcesHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MobileTechnolog/!svn/ver/10/Giant/Giant/ResourcesHelper.cpp
+END
+Decide.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/Decide.cpp
+END
+GSpriteManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MobileTechnolog/!svn/ver/24/Giant/Giant/GSpriteManager.h
+END
+tinyxmlerror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/tinyxmlerror.cpp
+END
+DBaseLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/DBaseLayer.h
+END
+tinyxmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/tinyxmlparser.cpp
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/writer.h
+END
+features.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/features.h
+END
+HTTPHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/HTTPHelper.h
+END
+GTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/MobileTechnolog/!svn/ver/23/Giant/Giant/GTool.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/md5.h
+END
+autolink.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/autolink.h
+END
+json_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/json_reader.cpp
+END
+GiantData.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MobileTechnolog/!svn/ver/27/Giant/Giant/GiantData.h
+END
+tinyxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/tinyxml.cpp
+END
+DBaseSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MobileTechnolog/!svn/ver/15/Giant/Giant/DBaseSprite.cpp
+END
+DBaseLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/DBaseLayer.cpp
+END
+LogicDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/LogicDriver.h
+END
+HTTPHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/HTTPHelper.cpp
+END
+ResourcesHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MobileTechnolog/!svn/ver/5/Giant/Giant/ResourcesHelper.h
+END
+json_batchallocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/json_batchallocator.h
+END
+MainGameLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MobileTechnolog/!svn/ver/24/Giant/Giant/MainGameLayer.h
+END
+value.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/value.h
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/md5.cpp
+END
+bg.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/MobileTechnolog/!svn/ver/9/Giant/Giant/bg.jpg
+END
+GCannon.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileTechnolog/!svn/ver/24/Giant/Giant/GCannon.h
+END
+LocalManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileTechnolog/!svn/ver/27/Giant/Giant/LocalManager.h
+END
+SCSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileTechnolog/!svn/ver/10/Giant/Giant/SCSprite.cpp
+END
+GBullet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MobileTechnolog/!svn/ver/24/Giant/Giant/GBullet.cpp
+END
+json_internalarray.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/json_internalarray.inl
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/reader.h
+END
+Execution.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/Execution.h
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/tinyxml.h
+END
+LogicDriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/LogicDriver.cpp
+END
+FileManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/FileManager.cpp
+END
+MainGameLayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/MobileTechnolog/!svn/ver/27/Giant/Giant/MainGameLayer.cpp
+END
+tinystr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/tinystr.cpp
+END
+Cannon.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MobileTechnolog/!svn/ver/10/Giant/Giant/Cannon.png
+END
+JsonHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/JsonHelper.h
+END
+json_valueiterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/json_valueiterator.inl
+END
+SCGameScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/SCGameScene.h
+END
+GCannon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/MobileTechnolog/!svn/ver/24/Giant/Giant/GCannon.cpp
+END
+Cannon.plist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileTechnolog/!svn/ver/10/Giant/Giant/Cannon.plist
+END
+LocalManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/MobileTechnolog/!svn/ver/29/Giant/Giant/LocalManager.cpp
+END
+GGlobalScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MobileTechnolog/!svn/ver/6/Giant/Giant/GGlobalScene.h
+END
+forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/forwards.h
+END
+SCSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MobileTechnolog/!svn/ver/10/Giant/Giant/SCSprite.h
+END
+GBullet.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileTechnolog/!svn/ver/24/Giant/Giant/GBullet.h
+END
+json_internalmap.inl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/json_internalmap.inl
+END
+Execution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/Execution.cpp
+END
+DDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileTechnolog/!svn/ver/18/Giant/Giant/DDefine.h
+END
+GCannonInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MobileTechnolog/!svn/ver/14/Giant/Giant/GCannonInfo.h
+END
+SqlHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/SqlHelper.h
+END
+json_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/json_writer.cpp
+END
+json_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/json_value.cpp
+END
+GSpriteManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MobileTechnolog/!svn/ver/24/Giant/Giant/GSpriteManager.cpp
+END
+JsonHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/JsonHelper.cpp
+END
+SCGameScene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/SCGameScene.cpp
+END
+json.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/json.h
+END
+cannon.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/MobileTechnolog/!svn/ver/16/Giant/Giant/cannon.png
+END
+FileManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/FileManager.h
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/tinystr.h
+END
+Decide.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/Decide.h
+END
+GTool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileTechnolog/!svn/ver/23/Giant/Giant/GTool.cpp
+END
+cannon.plist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/MobileTechnolog/!svn/ver/13/Giant/Giant/cannon.plist
+END
+GGlobalScene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/MobileTechnolog/!svn/ver/6/Giant/Giant/GGlobalScene.cpp
+END
+Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/MobileTechnolog/!svn/ver/4/Giant/Giant/Prefix.pch
+END
